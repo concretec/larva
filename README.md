@@ -1,2 +1,2 @@
 # larva
-A Starter Wordpress Theme Built on Google
+A Starter Wordpress Theme Built with Google's Material Design

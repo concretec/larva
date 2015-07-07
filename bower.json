@@ -1,0 +1,19 @@
+{
+  "name": "larva",
+  "version": "0.0.1",
+  "authors": [
+    "Concrete Creative <larva@concretecreative.io>"
+  ],
+  "description": "WordPress starter theme built on Google's Material Design Lite",
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "material",
+    "design",
+    "lite",
+    "google"
+    "sass"
+  ],
+  "license": "MIT",
+  "private": false
+}
